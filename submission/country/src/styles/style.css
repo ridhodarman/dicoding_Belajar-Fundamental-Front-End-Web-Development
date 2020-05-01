@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+main {
+    width: 95%;
+    max-width: 1366px;
+    margin: 32px auto;
+}
+
+negara-list {
+    display: block;
+    margin-top: 32px;
+    width: 30%;
+    padding-left: 20px;
+    float: right;
+}
